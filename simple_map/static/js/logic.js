@@ -20,3 +20,11 @@ let streets = L.tileLayer('https://api.mapbox.com/{style}/tiles/{z}/{x}/{y}?acce
 });
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
+
+// Get data from cities.js
+let cityData = cities;
+
+// Loop through the cities array and create one marker for each city.
+cityData.forEach(city => {
+    L.marker(city.location).addTo(map);
+});
