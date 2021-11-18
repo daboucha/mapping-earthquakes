@@ -5,6 +5,6 @@ The Disaster Reporting Network, a non-profit organization, has tasked us to buil
 
 ## Resources
 - Data: GeoJSON data from earthquake.usgs.gov <br />
-	/nGeoJSON data from https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+	GeoJSON data from https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 - Software: JavaScript 1.7, HTML 5, CSS, Leaflet 1.7.1, D3.js v5
 
