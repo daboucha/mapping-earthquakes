@@ -1,7 +1,7 @@
 # Mapping Earthquakes
 
 ## Overview of the Mapping Earthquakes Leaflet Project
-The Disaster Reporting Network, a non-profit organization, has tasked us to inciteful data visualizations with interactive features on earthquakes from around the world. We will use up to date GeoJSON earthquake data, JavaScript, and Leaflet in order to display the data effectively.
+The Disaster Reporting Network, a non-profit organization, has tasked us to build inciteful data visualizations with interactive features on earthquakes from around the world. We will use up to date GeoJSON earthquake data, JavaScript, and Leaflet in order to display the data effectively.
 
 ## Resources
 - Data: GeoJSON data from earthquake.usgs.gov
